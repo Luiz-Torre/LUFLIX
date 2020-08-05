@@ -7,6 +7,9 @@ function Footer() {
       <p>
       ©  Luiz Torre
       </p>
+      <p>
+        Criado Durante a Imersão Alura
+      </p>
     </FooterBase>
   );
 }

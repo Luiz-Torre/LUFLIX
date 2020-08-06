@@ -2,20 +2,16 @@
   "categorias": [
     {
       "titulo": "Temporada 1 Chaves",
-      
-      
+      "cor": "#FFF0F8F",      
       "videos": [
         {
           "titulo": "A turma do Chaves",
           "url": "https://www.youtube.com/watch?v=B0mebVqRF_0"
         },
-        {
-          "titulo": "Algum episodio",
-          "url": "https://www.youtube.com/watch?v=YzQ-f3QIkNo&list=PL3KXDOZJQwpmeZOBq6UBtKkHOQtzrWpn_&index=4E"
-        },
+       
         {
           "titulo": "Outro episodio",
-          "url": "https://www.youtube.com/watch?v=nZ39cHgTb4Q&list=PLGySmERhTVkw4ZsttuUURGs9PpHg85H1x"
+           "url": "https://www.youtube.com/watch?v=nZ39cHgTb4Q&list=PLGySmERhTVkw4ZsttuUURGs9PpHg85H1x"
         },
         {
           "titulo": "Mais um outro episodio",
@@ -38,17 +34,15 @@
     },
     {
       "titulo": "Temporada 2 Chaves",
-      
+      "cor": "green",      
+
       
       "videos": [
         {
           "titulo": "A turma do Chaves",
           "url": "https://www.youtube.com/watch?v=B0mebVqRF_0"
         },
-        {
-          "titulo": "Algum episodio",
-          "url": "https://www.youtube.com/watch?v=YzQ-f3QIkNo&list=PL3KXDOZJQwpmeZOBq6UBtKkHOQtzrWpn_&index=4E"
-        },
+       
         {
           "titulo": "Outro episodio",
           "url": "https://www.youtube.com/watch?v=nZ39cHgTb4Q&list=PLGySmERhTVkw4ZsttuUURGs9PpHg85H1x"
@@ -74,6 +68,7 @@
     },
     {
       "titulo": "Temporada 3 Chaves",
+      "cor": "#6b5be2",
       
       
       "videos": [
@@ -81,10 +76,7 @@
           "titulo": "A turma do Chaves",
           "url": "https://www.youtube.com/watch?v=B0mebVqRF_0"
         },
-        {
-          "titulo": "Algum episodio",
-          "url": "https://www.youtube.com/watch?v=YzQ-f3QIkNo&list=PL3KXDOZJQwpmeZOBq6UBtKkHOQtzrWpn_&index=4E"
-        },
+      
         {
           "titulo": "Outro episodio",
           "url": "https://www.youtube.com/watch?v=nZ39cHgTb4Q&list=PLGySmERhTVkw4ZsttuUURGs9PpHg85H1x"
@@ -117,10 +109,7 @@
           "titulo": "A turma do Chaves",
           "url": "https://www.youtube.com/watch?v=B0mebVqRF_0"
         },
-        {
-          "titulo": "Algum episodio",
-          "url": "https://www.youtube.com/watch?v=YzQ-f3QIkNo&list=PL3KXDOZJQwpmeZOBq6UBtKkHOQtzrWpn_&index=4E"
-        },
+      
         {
           "titulo": "Outro episodio",
           "url": "https://www.youtube.com/watch?v=nZ39cHgTb4Q&list=PLGySmERhTVkw4ZsttuUURGs9PpHg85H1x"
@@ -153,10 +142,7 @@
           "titulo": "A turma do Chaves",
           "url": "https://www.youtube.com/watch?v=B0mebVqRF_0"
         },
-        {
-          "titulo": "Algum episodio",
-          "url": "https://www.youtube.com/watch?v=YzQ-f3QIkNo&list=PL3KXDOZJQwpmeZOBq6UBtKkHOQtzrWpn_&index=4E"
-        },
+      
         {
           "titulo": "Outro episodio",
           "url": "https://www.youtube.com/watch?v=nZ39cHgTb4Q&list=PLGySmERhTVkw4ZsttuUURGs9PpHg85H1x"

@@ -4,6 +4,7 @@ function FormField({ placeholder, type, name, value, onChange }) {
   return (
     <div>
       <label>
+        teste
         <input
           type={type}
           value={value}
